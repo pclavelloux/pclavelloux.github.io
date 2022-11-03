@@ -27,4 +27,10 @@
 }
 
 .swiper-button-next, .swiper-button-prev{
-color:#fff;}
+color:#80C4B7;
+}
+
+.swiper-button-next:after, .swiper-button-prev:after{
+color:#80C4B7;
+}
+
